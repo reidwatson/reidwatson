@@ -3,4 +3,4 @@
 
 Hey, I'm Reid
 
-I am a fullstack dev and startup menace. I love building websites, apps, and data systems. Reach out on my linkedin if you want to work together!
+I am a fullstack developer. Startup guy. I love building websites, apps, and data systems. Reach out on my linkedin if you want to work together!
